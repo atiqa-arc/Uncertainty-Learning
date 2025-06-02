@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coco_precomp"
+		},
+		{
+			"path": "../../model/Qwen2.5-1.5B-Instruct"
+		},
+		{
+			"path": "../vit trandformer"
+		}
+	],
+	"settings": {}
+}
